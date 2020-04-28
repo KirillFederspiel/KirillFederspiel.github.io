@@ -42,7 +42,7 @@
     "uniqCompNum": 40,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/kirillfederspiel02-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
