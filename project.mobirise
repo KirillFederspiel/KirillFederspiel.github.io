@@ -1341,6 +1341,58 @@
                 "customStyle1": "display-7",
                 "caption": "Same as previous",
                 "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/timetodisco95-1.png",
+                "thumb": "@PROJECT_PATH@/assets/images/timetodisco95-1-800x320.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "\"A rendered wide shot matte painting of the valley below where a stony winding road is leading to the horizon where a far away costal castle complex is sprawled on a distant sparkling reflective ocean shore with clear sky by Thomas Kinkade and Darek Zabrocki. Aerial, graduated hue, f11:6\",\n<br>            \"graduated hue, cinematic, volumetric lighting, dynamic lighting, dappled ligting, unreal engine, octane render, trending on artstation and cgsociety:1\",\n<br>            \"signature, signatures, text, globes, jpeg artifacts, shallow depth of field, people, blurry, blur:-2\"",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/timetodisco95-2.png",
+                "thumb": "@PROJECT_PATH@/assets/images/timetodisco95-2-800x320.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Same as previous",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/timetodisco94.png",
+                "thumb": "@PROJECT_PATH@/assets/images/timetodisco94-800x320.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Same as previous",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/timetodisco95.png",
+                "thumb": "@PROJECT_PATH@/assets/images/timetodisco95-800x320.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Same as previous",
+                "active": false
               }
             ]
           }
