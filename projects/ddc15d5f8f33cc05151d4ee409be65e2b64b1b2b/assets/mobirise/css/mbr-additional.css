@@ -2367,13 +2367,40 @@ section.lazy-placeholder:after {
 }
 .cid-teA2KE3ryF {
   background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-teA2KE3ryF .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-teA2KE3ryF .video-block {
+    width: 100% !important;
+  }
+}
+.cid-teBULhwFOA {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-teBULhwFOA .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-teBULhwFOA .video-block {
+    width: 100% !important;
+  }
+}
+.cid-teBULtyLcl {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-teBULtyLcl .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-teBULtyLcl .video-block {
     width: 100% !important;
   }
 }
