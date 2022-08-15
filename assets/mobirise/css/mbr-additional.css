@@ -1056,6 +1056,10 @@ section.lazy-placeholder:after {
 .cid-tdnw899RP3 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-tdnw899RP3 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-tdnw899RP3 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-tdnw899RP3 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-tdnw899RP3 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1151,6 +1155,10 @@ section.lazy-placeholder:after {
   .cid-tdnw899RP3 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-tdnw899RP3 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-tdnw899RP3 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-tdnw899RP3 .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-tdnw899RP3 .navbar-collapse.collapsing .navbar-buttons,
   .cid-tdnw899RP3 .navbar-collapse.show .navbar-buttons {
