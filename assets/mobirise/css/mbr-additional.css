@@ -678,6 +678,148 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-tdpzVnSFqr {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/timetodisco84-1-800x320.png");
+}
+.cid-tdpzVnSFqr .mbr-section-subtitle {
+  text-align: right;
+}
+.cid-tdpzVnSFqr .mbr-text {
+  text-align: right;
+}
+.cid-tdzOOiHWT3 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.cid-tdzOOiHWT3 .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-tdzOOiHWT3 .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-tdzOOiHWT3 .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-tdzOOiHWT3 .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-tdzOOiHWT3 .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-tdzOOiHWT3 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-tdzOOiHWT3 .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-tdzOOiHWT3 .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-tdzOOiHWT3 .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rYZ2PoJs0I {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/timetodisco94.png");
+}
+@media (max-width: 767px) {
+  .cid-rYZ2PoJs0I .media-wrap {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rYZ2PoJs0I .media-wrap .mbr-iconfont-logo {
+  font-size: 7rem;
+  color: #f36;
+}
+.cid-rYZ2PoJs0I .media-wrap img {
+  height: 6rem;
+}
+.cid-rYZ2PoJs0I .mbr-text {
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-rYZ2PoJs0I .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rYZ2PoJs0I .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #000;
+  opacity: .05;
+}
+.cid-rYZ2PoJs0I .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rYZ2PoJs0I .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #232323;
+}
+.cid-rYZ2PoJs0I .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rYZ2PoJs0I .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rYZ2PoJs0I .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rYZ2PoJs0I .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+.cid-rYZ2PoJs0I .links {
+  color: #55b4d4;
+}
 .cid-tdnw899RP3 .navbar {
   background: #ffffff;
   transition: none;
@@ -1080,92 +1222,4 @@ section.lazy-placeholder:after {
 .cid-tdnw899RP3 .nav-link:hover,
 .cid-tdnw899RP3 .dropdown-item:hover {
   color: #767676 !important;
-}
-.cid-teWFPSEEkS {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-teWFPSEEkS .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-teWFPSEEkS .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-teWFPSEEkS .content-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-.cid-teWFS5Wpp3 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-teWFS5Wpp3 .mbr-text,
-.cid-teWFS5Wpp3 blockquote {
-  color: #767676;
-}
-.cid-teWFOGabIe {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-  overflow: hidden;
-  box-sizing: border-box;
-}
-.cid-teWFOGabIe .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-teWFOGabIe .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-teWFOGabIe .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-teWFOGabIe .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-teWFOGabIe .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-teWFOGabIe .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-teWFOGabIe .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-teWFOGabIe .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-teWFOGabIe .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
 }
